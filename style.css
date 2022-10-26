@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit:wght@400;600&family=Righteous&display=swap');@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap');
+
+body{
+    background: rgb(78, 37, 84) ;
+    font-size: 12pt;
+    font-family: 'Bebas Neue', cursive;
+    text-transform: capitalize;
+}
+
+header{
+    color:rgba(239, 238, 238, 0.595);
+    text-align: center;
+}
+
+section{
+    background:rgba(255, 255, 255, 0.379) ;
+    border-radius: 30px;
+    padding: 15px;
+    width: 450px;
+    margin: auto;
+    color: rgba(2, 2, 2, 0.777);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.342);
+}
+
+div{
+    text-align: center;
+    padding: 3vh;
+    font-size: 20px;
+}
+
+footer{
+    color: rgba(51, 51, 51, 0.293);
+    text-align: center;
+    font-style: italic;
+}
+
+img{
+    width: 50vh;
+}
